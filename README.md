@@ -34,5 +34,8 @@ I am passionate about writing clean code, building reusable components, and cont
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 💖 Support Me
+
+Send via Wise: @rakibulh268
 ---
 [![](https://visitcount.itsvg.in/api?id=Rakib-dhali&icon=0&color=0)](https://visitcount.itsvg.in)
