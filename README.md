@@ -10,7 +10,7 @@ I am passionate about writing clean code, building reusable components, and cont
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Rakib Dhali](http://rakib-dhali-portfolio.vercel.app/)
-* ✉️  You can contact me at [rakibdhali343@gmail.com](mailto:mdrakibhossain343@outlook.com)
+* ✉️  You can contact me at [mdrakibhossain343@outlook.com](mailto:mdrakibhossain343@outlook.com)
 * 🚀  I'm currently working on [Bank Backend](https://github.com/Rakib-dhali/bank-backend)
 * 🧠  I'm currently learning a new framework / full-stack concepts
 * 👥  I'm looking to collaborate on -
