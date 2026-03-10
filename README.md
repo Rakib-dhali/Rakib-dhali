@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rakibul Hossain
 ====================================================================================================================================
 
-Jr. FUll-Stack Developer
+Jr. Full-Stack Developer
 ----------------------
 
 I specialize in frontend development with React and Next.js, creating modern, scalable, and performance-optimized web applications. I also have practical experience with backend technologies like Express, MongoDB, and JWT authentication, enabling me to build and manage full-stack applications when needed.
