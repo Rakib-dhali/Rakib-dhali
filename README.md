@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rakibul Hossain
 ====================================================================================================================================
 
-Jr. Frontend Developer
+Jr. FUll-Stack Developer
 ----------------------
 
 I specialize in frontend development with React and Next.js, creating modern, scalable, and performance-optimized web applications. I also have practical experience with backend technologies like Express, MongoDB, and JWT authentication, enabling me to build and manage full-stack applications when needed.
@@ -25,13 +25,9 @@ I am passionate about writing clean code, building reusable components, and cont
 
 # 📊 GitHub Stats:
 
-<a href="http://www.github.com/Rakib-dhali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib-dhali&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-## GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib-dhali&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakib-dhali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Rakib-dhali&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 ## 💖 Support Me
 
