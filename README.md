@@ -29,8 +29,4 @@ I am passionate about writing clean code, building reusable components, and cont
   <img src="https://yourinsights.vercel.app/api/insight?username=Rakib-dhali&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
-## 💖 Support Me
 
-Send via Wise: @rakibulh268
----
-[![](https://visitcount.itsvg.in/api?id=Rakib-dhali&icon=0&color=0)](https://visitcount.itsvg.in)
