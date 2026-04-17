@@ -55,9 +55,11 @@ Open to **remote frontend or full-stack roles** — junior level or internships.
 **Database & BaaS**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/Auth.js-7B3FF2?style=for-the-badge&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-145FDD?style=for-the-badge&logo=imagekit&logoColor=white)
 
 **Tools & Platforms**
 
@@ -66,7 +68,6 @@ Open to **remote frontend or full-stack roles** — junior level or internships.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-145FDD?style=for-the-badge&logo=imagekit&logoColor=white)
 
 **Deployment**
  
