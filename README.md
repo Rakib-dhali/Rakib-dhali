@@ -47,17 +47,21 @@ Open to **remote frontend or full-stack roles** — junior level or internships.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 **Database & BaaS**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better%20Auth-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAABHElEQVR4nKWSP8rCQBTEf7sJK/i3sfUedh7CEyQHSKtgZ+VBPJGNYCFIQGzUKgbXxLEISfEJFl8GlvfY5c08ZsdIEv9AWDdFUQAQBAHGGADKsuQvbxhWI6aV4v1+Z7Va4b0niiKm0ynee9brNbfbrVF3zrHZbBgOhyBJp9NJgABtt1vVCMOwua/P+Xyu3gCstQwGA/I8Z7fbMR6P8d4zn8/JsozD4cDxeKTX62GtrXaVpDRN5Zz7Yk/TVJK0WCwEaDQa6XK5SJLsLwNqd+v6ZQ6Ac473+02SJMxmM16vF8vlksfjwX6/b76hQStz+v0+cRzjvWcymVCWJc/nkyRJuF6vGGMoioJOp0O3263Wbx25Ol6/ImeMIQiCdoofipHPdozWp28AAAAASUVORK5CYII=&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 ![ImageKit](https://img.shields.io/badge/ImageKit-145FDD?style=for-the-badge&logo=imagekit&logoColor=white)
+
+**Authentication**
+
+![NextAuth](https://img.shields.io/badge/NextAuth.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAABHElEQVR4nKWSP8rCQBTEf7sJK/i3sfUedh7CEyQHSKtgZ+VBPJGNYCFIQGzUKgbXxLEISfEJFl8GlvfY5c08ZsdIEv9AWDdFUQAQBAHGGADKsuQvbxhWI6aV4v1+Z7Va4b0niiKm0ynee9brNbfbrVF3zrHZbBgOhyBJp9NJgABtt1vVCMOwua/P+Xyu3gCstQwGA/I8Z7fbMR6P8d4zn8/JsozD4cDxeKTX62GtrXaVpDRN5Zz7Yk/TVJK0WCwEaDQa6XK5SJLsLwNqd+v6ZQ6Ac473+02SJMxmM16vF8vlksfjwX6/b76hQStz+v0+cRzjvWcymVCWJc/nkyRJuF6vGGMoioJOp0O3263Wbx25Ol6/ImeMIQiCdoofipHPdozWp28AAAAASUVORK5CYII=&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
 
 **Tools & Platforms**
 
