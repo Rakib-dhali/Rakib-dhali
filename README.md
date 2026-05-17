@@ -18,15 +18,15 @@ I share what I'm learning publicly on LinkedIn and keep a consistent GitHub stre
 Open to **remote frontend or full-stack roles** — junior level or internships.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Rakibul Hossain](http://rakib-dhali-portfolio.vercel.app/)
-* ✉️  You can contact me at [mdrakibhossain343@outlook.com](mailto:mdrakibhossain343@outlook.com)
-* 🚀  I'm currently working on NextAuth
+* 🖥️  See my portfolio at [Rakibul Hossain](https://rakib-portfolio-xi.vercel.app/)
+* ✉️  You can contact me at [mdrakibhossain343@outlook.com](mailto:rakibul.dev@proton.me)
+* 🚀  I'm currently working on Klipframe
 * 🧠  I'm currently learning a Backend Technologies
 * 👥  I'm looking to collaborate on - open source project
 * ☕  coffee-powered 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hossain__Rakib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulhossain343) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ok-Cobbler803) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdrakibhossain343@outlook.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/rakibul343/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hossain__Rakib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulhossain343) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ok-Cobbler803) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakibul.dev@proton.me) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/rakibul343/)
 
 # 💻 Tech Stack:
 
