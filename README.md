@@ -18,8 +18,8 @@ I share what I'm learning publicly on LinkedIn and keep a consistent GitHub stre
 Open to **remote frontend or full-stack roles** — junior level or internships.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Rakibul Hossain](https://rakib-portfolio-xi.vercel.app/)
-* ✉️  You can contact me at [mdrakibhossain343@outlook.com](mailto:rakibul.dev@proton.me)
+* 🖥️  See my portfolio at [Rakibul Hossain](https://rakibul.is-a.dev/)
+* ✉️  You can contact me at [rakibul.dev@proton.me(mailto:rakibul.dev@proton.me)
 * 🚀  I'm currently working on Klipframe
 * 🧠  I'm currently learning a Backend Technologies
 * 👥  I'm looking to collaborate on - open source project
