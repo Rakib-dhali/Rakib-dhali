@@ -4,26 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ----------------------
 
-Developer from Bangladesh specializing in **React** and **Next.js** — building modern, 
-performant web applications with clean component architecture and smooth user experiences.
+Developer from Bangladesh specializing in **React**, **Next.js** — 
+building modern, performant web applications with clean architecture and smooth user experiences.
 
 I work across the full stack: TypeScript and state management on the frontend, 
-Express, MongoDB, and NextAuth.js on the backend. I enjoy adding polish to interfaces 
-with **GSAP** and **Framer Motion**, and I care deeply about writing code that's 
-readable, reusable, and built to scale.
+Express, Node.js, and MongoDB on the backend — and more recently PostgreSQL with 
+Prisma for structured, relational data. I enjoy adding polish to interfaces with 
+**GSAP** and **Framer Motion**, and I care about writing code that's readable, 
+reusable, and built to scale.
 
-Currently shipping a full-stack Next.js app with TypeScript, MongoDB, and Auth.js v5. 
-I share what I'm learning publicly on LinkedIn and keep a consistent GitHub streak.
+Currently interning at Leren Leren, working on a Chrome Extension built with Vue.js — 
+fixing bugs, improving flows, and making it production-ready.
 
 Open to **remote frontend or full-stack roles** — junior level or internships.
 
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Rakibul Hossain](https://rakibul.is-a.dev/)
-* ✉️  You can contact me at [rakibul.dev@proton.me](mailto:rakibul.dev@proton.me)
-* 🚀  I'm currently working on Klipframe
-* 🧠  I'm currently learning a Backend Technologies
-* 👥  I'm looking to collaborate on - open source project
-* ☕  coffee-powered 
+* 🌍  Based in Bangladesh
+* 🖥️  Portfolio at [Rakibul Hossain](https://rakibul.is-a.dev/)
+* ✉️  Contact at [rakibul.dev@proton.me](mailto:rakibul.dev@proton.me)
+* 🚀  Currently working on Trackify
+* 🧠  Currently learning Vue.js
+* 👥  Open to collaborate on open source projects
+* ☕  coffee-powered
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hossain__Rakib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulhossain343) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ok-Cobbler803) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakibul.dev@proton.me) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/rakibul343/)
@@ -37,6 +38,7 @@ Open to **remote frontend or full-stack roles** — junior level or internships.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
@@ -52,9 +54,9 @@ Open to **remote frontend or full-stack roles** — junior level or internships.
 **Database & BaaS**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-145FDD?style=for-the-badge&logo=imagekit&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 **Authentication**
 
